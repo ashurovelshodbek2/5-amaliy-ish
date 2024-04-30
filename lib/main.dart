@@ -56,8 +56,8 @@ class MyApp extends StatelessWidget {
       ),
       Column(
         children: [
-          Text('Bozorov Nuriddin | Mobile Dev'),
-          Text('23.04.2024'),
+          Text('Ashurov Elshod | Mobile Dev'),
+          Text('30.04.2024'),
         ],
       ),
       ],
